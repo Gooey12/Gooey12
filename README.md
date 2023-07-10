@@ -4,9 +4,6 @@
 
 Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, and JavaScript. I'm passionate about creating interactive and visually appealing web experiences.
 
-- Gender: Male ♂️
-- Country: Philippines 🇵🇭
-
 ## Contact Me
 
 - ✉ Email: captgooey12@gmail.com
