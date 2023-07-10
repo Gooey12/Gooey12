@@ -1,6 +1,6 @@
-<a href="#"><img src="https://komarev.com/ghpvc/?username=CaptGooey12&label=Profile%20Visits" /></a>
+# Hi! I'm Gooey 👋
 
-# Gooey12
+<a href="#"><img src="https://komarev.com/ghpvc/?username=CaptGooey12&label=Profile%20Visits" /></a>
 
 Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, and JavaScript. I'm passionate about creating interactive and visually appealing web experiences.
 
