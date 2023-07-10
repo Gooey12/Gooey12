@@ -20,4 +20,4 @@ Check out my GitHub repositories and projects at (https://github.com/CaptGooey12
 
 ## Discord Community
 
-Join my Discor: [Join (https://discord.gg/Vr5UpCgu5p)
+Join my Discor: (https://discord.gg/Vr5UpCgu5p)
