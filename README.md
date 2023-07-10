@@ -7,7 +7,7 @@ Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, an
 ## Contact Me
 
 - ✉ Email: captgooey12@gmail.com
-- 🗨 Discord: @gooey12/Gooey#2511
+- 🗨 Discord: @gooey12/CaptGooey#2511
 
 ## Socials
 
