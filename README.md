@@ -4,10 +4,9 @@
 
 Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, and JavaScript. I'm passionate about creating interactive and visually appealing web experiences.
 
-## Contact Me
+## Discord Community
 
-- ✉ Email: captgooey12@gmail.com
-- 🗨 Discord: @gooey12/CaptGooey#2511
+Join my Discord: (https://discord.gg/Vr5UpCgu5p)
 
 ## Socials
 
@@ -16,11 +15,13 @@ Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, an
 - 💙 Facebook: (https://www.facebook.com/Jaspher1211?mibextid=ZbWKwL)
 - 🎶 Spotify: (https://open.spotify.com/user/31xkybd6okcqehygbr6pwt24hlva?si=ad6DQ8yZTsq3JYqlF_rN6A)
 - 💻 Reddit: (https://www.reddit.com/user/CaptGooey1211/submitted/)
+- 🤖 (https://github.com/CaptGooey12)
 
-## GitHub
+## Contact Me
 
-Check out my GitHub repositories and projects at (https://github.com/CaptGooey12)
+- ✉ Email: captgooey12@gmail.com
+- 🗨 Discord: @gooey12/CaptGooey#2511
 
-## Discord Community
-
-Join my Discord: (https://discord.gg/Vr5UpCgu5p)
+# GitHub
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CaptGooey12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptGooey12&theme=tokyonight" alt="mystreak"/>
