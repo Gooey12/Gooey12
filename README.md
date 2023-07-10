@@ -1,16 +1,23 @@
-### Hi there 👋
+# Gooey12
 
-<!--
-**CaptGooey12/CaptGooey12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, and JavaScript. I'm passionate about creating interactive and visually appealing web experiences.
 
-Here are some ideas to get you started:
+## Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✉ Email: captgooey12@gmail.com
+- 🗨 Discord: @gooey12/Gooey#2511
+
+## Socials
+
+- 🎮 Itch: (https://gooey12.itch.io/)
+- ▶ YouTube: (https://www.youtube.com/channel/UC5SWRX6hnHb4rGzea1nb-oQ)
+- 🎶 Spotify: (https://open.spotify.com/user/31xkybd6okcqehygbr6pwt24hlva?si=ad6DQ8yZTsq3JYqlF_rN6A)
+- 💻 Reddit: (https://www.reddit.com/user/CaptGooey1211/submitted/)
+
+## GitHub
+
+Check out my GitHub repositories and projects at (https://github.com/CaptGooey12)
+
+## Discord Community
+
+Join my Discor: [Join (https://discord.gg/Vr5UpCgu5p)
