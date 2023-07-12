@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/CaptGooey12/CaptGooey12/main/Untitled87_20230712201803.png">
+
 # Hi! I'm Gooey 👋
 
 <a href="#"><img src="https://komarev.com/ghpvc/?username=CaptGooey12&label=Profile%20Visits" /></a>
