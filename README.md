@@ -17,7 +17,7 @@ Join my Discord: (https://discord.gg/Vr5UpCgu5p)
 - 💙 Facebook: (https://www.facebook.com/Jaspher1211?mibextid=ZbWKwL)
 - 🎶 Spotify: (https://open.spotify.com/user/31xkybd6okcqehygbr6pwt24hlva?si=ad6DQ8yZTsq3JYqlF_rN6A)
 - 💻 Reddit: (https://www.reddit.com/user/CaptGooey1211/submitted/)
-- 🤖 (https://github.com/CaptGooey12)
+- 🤖 GitHub: (https://github.com/CaptGooey12)
 
 ## Contact Me
 
