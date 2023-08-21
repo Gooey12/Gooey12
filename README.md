@@ -21,7 +21,7 @@ Join my Discord: (https://discord.gg/Vr5UpCgu5p)
 
 ## Contact Me
 
-- ✉ Email: captgooey12@gmail.com
+- ✉ Email: gooey0012@gmail.com
 - 🗨 Discord: @gooey12/CaptGooey#2511
 
 ## GitHub
