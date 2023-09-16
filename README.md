@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/CaptGooey12/CaptGooey12/main/Untitled87_20230712201803.png">
 
-# Hi! I'm Gooey 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=F2B00E&center=true&vCenter=true&width=435&lines=Hello world!+;My name's Gooey" alt="Typing SVG" /></a>
 
 <a href="#"><img src="https://komarev.com/ghpvc/?username=CaptGooey12&label=Profile%20Visits" /></a>
 
