@@ -28,7 +28,7 @@ Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, an
 </p>
 
 ## Skills
-Here's some things that I use:
+Here's some things and programming languages that I use:
 
 <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-visual-studio-code.png" width="48" /></a>
 <a href="https://github.com/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-github.png" width="48" /></a>
