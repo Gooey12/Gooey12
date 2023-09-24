@@ -14,17 +14,24 @@ Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, an
 - ▶ YouTube: (https://www.youtube.com/channel/UC5SWRX6hnHb4rGzea1nb-oQ)
 - 💙 Facebook:(https://www.facebook.com/Jaspher1211?mibextid=ZbWKwL)
 - 🤖 Reddit: (https://www.reddit.com/user/CaptGooey1211/submitted/)
-- 💻 (https://github.com/CaptGooey12)
+- 💻 (https://github.com/CaptGooey12)  
+- 💬 Discord: (https://discord.gg/Vr5UpCgu5p)
+  
+<br>
 
-#### Discord Community
-
-- Discord: (https://discord.gg/Vr5UpCgu5p)
-
-## Contact Me
-
-- ✉ Email: gooey0012@gmail.com
+**Contact Me:**
+- <a target="_blank" rel="noopener noreferrer" href="https://mail.google.com/mail/u/0/?fs=1&to=gooey0012@gmail.com&su=&body=&bcc=&tf=cm" >✉ Email</a>: gooey0012@gmail.com
 - 🗨 Discord: @gooey12/CaptGooey#2511
 
-## GitHub
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CaptGooey12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptGooey12&theme=tokyonight" alt="mystreak"/>
+## Skills
+Here's some things that I use:
+
+<a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-visual-studio-code.png" width="48" /></a>
+<a href="https://github.com/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-github.png" width="48" /></a>
+<a href="https://html5.org"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-html5.png" width="48" /></a>
+<a href="https://www.css3.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-css3.png" width="48" /></a>
+<a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-js.png" width="48" /></a>
+
+## GitHub Status
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptGooey12&layout=compact&theme=onedark&hide_border=true&title_color=e9ecef&text_color=e9ecef&bg_color=272b30&size_weight=0.5&count_weight=0.5" alt="Most Used Language"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptGooey12&theme=tokyonight" alt="GitHub Streak"/>
