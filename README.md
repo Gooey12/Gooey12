@@ -22,10 +22,14 @@ Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, an
 **Contact Me:**
 - ✉ Email: gooey0012@gmail.com
 - 🗨 Discord: @gooey12/CaptGooey#2511
+  
+<br>
 
 <p align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://mail.google.com/mail/u/0/?fs=1&to=gooey0012@gmail.com&su=&body=&bcc=&tf=cm"><img src="https://img.shields.io/badge/Send%20Me%20Email-007ec6?style=for-the-badge&logo"/></a>
 </p>
+
+<br>
 
 ## 🎯 Skills
 Here's some things and programming languages that I use:
@@ -35,6 +39,8 @@ Here's some things and programming languages that I use:
 <a href="https://html5.org"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-html5.png" width="48" /></a>
 <a href="https://www.css3.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-css3.png" width="48" /></a>
 <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-js.png" width="48" /></a>
+
+<br>
 
 ## 📶 GitHub Status
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptGooey12&layout=compact&theme=onedark&hide_border=true&title_color=e9ecef&text_color=e9ecef&bg_color=272b30&size_weight=0.5&count_weight=0.5" alt="Most Used Language"/>
