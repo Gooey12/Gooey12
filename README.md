@@ -8,7 +8,7 @@ Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, an
 
 
 
-## 👤 Socials
+## 🌐 Socials
 
 - 🎮 Itch: (https://gooey12.itch.io/)
 - ▶ YouTube: (https://www.youtube.com/channel/UC5SWRX6hnHb4rGzea1nb-oQ)
