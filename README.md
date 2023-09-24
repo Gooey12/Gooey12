@@ -20,8 +20,12 @@ Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, an
 <br>
 
 **Contact Me:**
-- <a target="_blank" rel="noopener noreferrer" href="https://mail.google.com/mail/u/0/?fs=1&to=gooey0012@gmail.com&su=&body=&bcc=&tf=cm" >✉ Email</a>: gooey0012@gmail.com
+- ✉ Email: gooey0012@gmail.com
 - 🗨 Discord: @gooey12/CaptGooey#2511
+
+<p align="center">
+<a target="_blank" rel="noopener noreferrer" href="https://mail.google.com/mail/u/0/?fs=1&to=gooey0012@gmail.com&su=&body=&bcc=&tf=cm"><img src="https://raw.githubusercontent.com/CaptGooey12/CaptGooey12/main/buttonmail.png" width="100"/></a>
+</p>
 
 ## Skills
 Here's some things that I use:
