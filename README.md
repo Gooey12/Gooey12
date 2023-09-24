@@ -24,7 +24,7 @@ Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, an
 - 🗨 Discord: @gooey12/CaptGooey#2511
 
 <p align="center">
-<a target="_blank" rel="noopener noreferrer" href="https://mail.google.com/mail/u/0/?fs=1&to=gooey0012@gmail.com&su=&body=&bcc=&tf=cm"><img src="https://raw.githubusercontent.com/CaptGooey12/CaptGooey12/main/buttonmail.png" width="100"/></a>
+<a target="_blank" rel="noopener noreferrer" href="https://mail.google.com/mail/u/0/?fs=1&to=gooey0012@gmail.com&su=&body=&bcc=&tf=cm"><img src="https://img.shields.io/badge/Send%20Me%20Email-007ec6?style=for-the-badge&logo"/></a>
 </p>
 
 ## 🎯 Skills
