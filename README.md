@@ -8,7 +8,7 @@ Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, an
 
 
 
-## Socials
+## 👤 Socials
 
 - 🎮 Itch: (https://gooey12.itch.io/)
 - ▶ YouTube: (https://www.youtube.com/channel/UC5SWRX6hnHb4rGzea1nb-oQ)
@@ -27,7 +27,7 @@ Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, an
 <a target="_blank" rel="noopener noreferrer" href="https://mail.google.com/mail/u/0/?fs=1&to=gooey0012@gmail.com&su=&body=&bcc=&tf=cm"><img src="https://raw.githubusercontent.com/CaptGooey12/CaptGooey12/main/buttonmail.png" width="100"/></a>
 </p>
 
-## Skills
+## 🎯 Skills
 Here's some things and programming languages that I use:
 
 <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-visual-studio-code.png" width="48" /></a>
@@ -36,6 +36,6 @@ Here's some things and programming languages that I use:
 <a href="https://www.css3.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-css3.png" width="48" /></a>
 <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-js.png" width="48" /></a>
 
-## GitHub Status
+## 📶 GitHub Status
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptGooey12&layout=compact&theme=onedark&hide_border=true&title_color=e9ecef&text_color=e9ecef&bg_color=272b30&size_weight=0.5&count_weight=0.5" alt="Most Used Language"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptGooey12&theme=tokyonight" alt="GitHub Streak"/>
