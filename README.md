@@ -32,13 +32,15 @@ Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, an
 <br>
 
 ## 🎯 Skills
-Here's some things and programming languages that I use:
+Here's some programming languages, tools and frameworks that I use that I use:
 
 <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-visual-studio-code.png" width="48" /></a>
 <a href="https://github.com/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-github.png" width="48" /></a>
+<a href="https://markdownguide.org/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-markdown.png" width="48" /></a>
 <a href="https://html5.org"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-html5.png" width="48" /></a>
 <a href="https://www.css3.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-css3.png" width="48" /></a>
 <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-js.png" width="48" /></a>
+<a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-vue.png" width="48" /></a>
 
 <br>
 
