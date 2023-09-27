@@ -32,7 +32,7 @@ Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, an
 <br>
 
 ## 🎯 Skills
-Here's some programming languages, tools and frameworks that I use that I use:
+Here's some programming languages, tools and frameworks that I use:
 
 <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-visual-studio-code.png" width="48" /></a>
 <a href="https://github.com/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-github.png" width="48" /></a>
