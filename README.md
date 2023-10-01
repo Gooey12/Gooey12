@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=F2B00E&center=true&vCenter=true&width=435&lines=Hello world!+;My name's Gooey" alt="Typing SVG" /></a>
 
 <a href="#"><img src="https://komarev.com/ghpvc/?username=CaptGooey12&label=Profile%20Visits" /></a>
-<a href="https://gooey12.vercel.app"><img src="https://img.shields.io/badge/Gooey12-green" /></a>
+<a href="https://gooey12.vercel.app"><img src="https://img.shields.io/badge/Gooey12-blue" /></a>
 
 Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, and JavaScript. I'm passionate about creating interactive and visually appealing web experiences.
 
