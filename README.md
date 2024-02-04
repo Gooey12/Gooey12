@@ -33,8 +33,9 @@ Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, an
 <br>
 
 ## 🎯 Skills
-Here's some programming languages, tools and frameworks that I use:
+Here's some programming languages, tools and that I use:
 
+<p align="center">
 <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-visual-studio-code.png" width="48" /></a>
 <a href="https://github.com/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-github.png" width="48" /></a>
 <a href="https://markdownguide.org/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-markdown.png" width="48" /></a>
@@ -45,6 +46,7 @@ Here's some programming languages, tools and frameworks that I use:
 <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-vercel.png" width="48" /></a>
 <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-bootstrap.png" width="48" /></a>
 <a href="https://tauri.app/"><img src="https://raw.githubusercontent.com/CaptGooey12/CaptGooey12/main/Icons/tauri_icon.png" width="48" /></a>
+</p>
 
 <br>
 
