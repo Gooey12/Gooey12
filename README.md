@@ -43,6 +43,8 @@ Here's some programming languages, tools and frameworks that I use:
 <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-js.png" width="48" /></a>
 <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-vue.png" width="48" /></a>
 <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-vercel.png" width="48" /></a>
+<a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-bootstrap.png" width="48" /></a>
+<a href="https://tauri.app/"><img src="https://raw.githubusercontent.com/CaptGooey12/CaptGooey12/main/Icons/tauri_icon.png" width="48" /></a>
 
 <br>
 
