@@ -5,7 +5,7 @@
 <a href="#"><img src="https://komarev.com/ghpvc/?username=CaptGooey12&label=Profile%20Visits" /></a>
 <a href="https://gooey12.vercel.app"><img src="https://img.shields.io/badge/Gooey12-blue" /></a> <img src="https://img.shields.io/badge/OS-Windows-Windows?logo=windows&labelColor=gray&logoColor=white&color=007ec6"/>
 
-Hello! I'm Gooey, a developer in training. Currently, I'm learning HTML, CSS, and JavaScript. I'm passionate about creating interactive and visually appealing web experiences.
+Hi, I'm Gooey, a developer with a strong passion for programming and game development. Currently, I am focused on learning JavaScript to enhance my skills and bring my projects to life. I am always eager to learn new technologies and improve my craft.
 
 
 
