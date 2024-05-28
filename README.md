@@ -7,7 +7,7 @@
 
 Hi, I'm Gooey, a developer with a strong passion for programming and game development. Currently, I am focused on learning JavaScript to enhance my skills and bring my projects to life. I am always eager to learn new technologies and improve my craft.
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ## 🌐 Socials
 
@@ -51,5 +51,7 @@ Here's some programming languages, tools and that I use:
 <br>
 
 ## 📶 GitHub Status
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gooey12&layout=compact&theme=onedark&hide_border=true&title_color=e9ecef&text_color=e9ecef&bg_color=272b30&size_weight=0.5&count_weight=0.5" alt="Most Used Language"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gooey12&theme=tokyonight" alt="GitHub Streak"/>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gooey12&layout=compact&theme=tokyonight&hide=css)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gooey12&theme=tokyonight)
+<br>
+![Status](https://github-readme-stats.vercel.app/api?username=Gooey12&theme=tokyonight&show_icons=true)
