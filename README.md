@@ -33,7 +33,7 @@ Hi, I'm Gooey, a developer with a strong passion for programming and game develo
 <br>
 
 ## 🎯 Skills
-Here's some programming languages, tools and that I use:
+Here's some programming languages, tools and frameworks that I use:
 
 <p align="center">
 <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-visual-studio-code.png" width="48" /></a>
