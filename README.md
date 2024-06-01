@@ -46,6 +46,7 @@ Here's some programming languages, tools and frameworks that I use:
 <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-vercel.png" width="48" /></a>
 <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-bootstrap.png" width="48" /></a>
 <a href="https://tauri.app/"><img src="https://raw.githubusercontent.com/CaptGooey12/CaptGooey12/main/Icons/tauri_icon.png" width="48" /></a>
+<a href="https://coffeescript.org/" ><img src="https://raw.githubusercontent.com/Gooey12/Gooey12/main/Icons/coffeescript_icon.png" width="48" /></a>
 </p>
 
 <br>
