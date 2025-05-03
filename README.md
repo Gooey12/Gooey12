@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/CaptGooey12/CaptGooey12/main/GooeyBanner.png"> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=F2B00E&center=true&vCenter=true&width=435&lines=Hello world!+;My name's Gooey" alt="Typing SVG" /></a>
-
 <a href="#"><img src="https://komarev.com/ghpvc/?username=Gooey12&label=Visitors" /></a>
 <a href="https://gooey12.vercel.app"><img src="https://img.shields.io/badge/Gooey12-blue" /></a> <img src="https://img.shields.io/badge/OS-Windows-Windows?logo=windows&labelColor=gray&logoColor=white&color=007ec6"/>
 
