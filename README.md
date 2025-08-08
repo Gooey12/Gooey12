@@ -11,8 +11,6 @@ Hi, I'm Gooey, a developer with a strong passion for programming and game develo
 
 - 🎮 Itch: (https://gooey12.itch.io/)
 - ▶ YouTube: (https://www.youtube.com/channel/UC5SWRX6hnHb4rGzea1nb-oQ)
-- 💙 Facebook:(https://www.facebook.com/Jaspher1211?mibextid=ZbWKwL)
-- 🤖 Reddit: (https://www.reddit.com/user/CaptGooey1211/submitted/)
 - 💻 (https://github.com/CaptGooey12)  
 - 💬 Discord: (https://discord.gg/Vr5UpCgu5p)
   
